@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color:green;
+}
+
+.link {
+    list-style: none;
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 9px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 5px;
+}
+
+#list {
+
+    list-style: none;
+    position: fixed;
+    top: 15px;
+    left: 760px;
+    z-index: 10;
+    cursor: pointer;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.gridimg {
+    width: 350;
+    height: 350;
+}
+.slideimg{
+    width:800px;
+
+}
+.slidelabel{
+    font-size:30;
+}
